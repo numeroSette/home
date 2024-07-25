@@ -1,9 +1,9 @@
 # vim: set ts=4 sw=4 tw=4 noet
 
 [user]
-	name = Emily Strickland
-	email = hello@emily.st
-	signingkey = E24D796803FC1BB5
+	name = Guilherme Vito Giuseppe Sette
+	email = 1408481+numeroSette@users.noreply.github.com
+	signingkey = 907D1E1F63E8F430
 [core]
 	preloadindex = true
 	excludesfile = ~/.gitignore.global
